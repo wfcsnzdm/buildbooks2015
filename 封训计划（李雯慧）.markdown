@@ -1,0 +1,20 @@
+#封训计划
+
+标签（空格分隔）： 未分类
+
+---  
+> 2015李雯慧
+
+### 计划
+
+|日期|  | 周六   |周日|周一|周二|周三|周四|周五|
+| :-------:| :-------:| :-----:| -----  | :-----:  | :----:  | :----:  | :----:  | :----:  | :----:  | :----:  |
+| 04~10  | 上午 |   html+CSS学习巩固   |  html+CSS学习巩固  | html5+css3学习  |html5+css3学习|html5+css3学习 |html5+css3练习 |PS基础 |
+|  | 下午 |   html+CSS学习巩固   |  html+CSS学习巩固  | html+css练习 |html5+css3学习| html5+css3学习 |html5+css3练习|PS基础|
+| 19~26 | 上午   |  Javas语法学习 | javascript基础|javascript学习|javascript学习|javascript练习|javascript练习|html DOM学习|
+|     |下午|Javascript语法学习|javascript基础|javascript学习|javascript学习|javascript练习|html DOM学习|html DOM学习|
+| 20~26| 上午 |Jquery语法|PHP基础|PHP基础|PHP学习|PHP学习|PHP+MySQl|PHP练习|
+|      | 下午 |Jquery语法|PHP基础|PHP基础|PHP学习|PHP学习|PHP+MpSQl|PHP练习|
+
+
+
